@@ -6,5 +6,5 @@
 Config = {}
 Config.Debug = false -- Do some prints
 Config.YmapLocations = {
-    {coords = vector3(-1165.3893, -1700.1447, 4.5617), radius = 65.0},
+    {coords = vector3(-1165.3893, -1700.1447, 4.5617), radius = 65.0}, -- ymap used: https://www.gta5-mods.com/maps/los-santo-s-dealership-ymap
 }
